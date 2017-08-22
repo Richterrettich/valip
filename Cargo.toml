@@ -1,0 +1,8 @@
+[package]
+name = "valip"
+version = "0.1.0"
+authors = ["René Richter <richterrettich@gmail.com>"]
+
+[dependencies]
+
+clap = "2.24.1"
